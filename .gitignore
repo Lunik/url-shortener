@@ -1,0 +1,8 @@
+venv
+*.pyc
+.DS_Store
+.env
+package
+dist
+url_shortener.egg-info
+__pycache__
